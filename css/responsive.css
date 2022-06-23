@@ -1,0 +1,123 @@
+/*992-1024*/
+@media only screen and (min-width: 992px) and (max-width: 1024px) {
+}
+/*768-991*/
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    /*footer section start*/
+    .footerlogo img {
+        width: 14%;
+    }
+
+    /*footer section ened*/
+}
+/*576-767*/
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    .headerbox p {
+        font-size: 12px;
+    }
+    .headingtittle h1 {
+        font-size: 32px;
+    }
+    .headingtittle h2 {
+        font-size: 32px;
+    }
+    .headingtittle p {
+        font-size: 21px;
+    }
+    /*footer section start*/
+    .footerlogo img {
+        width: 21%;
+    }
+
+    /*footer section ened*/
+}
+
+/*480-575*/
+@media only screen and (min-width: 480px) and (max-width: 575px) {
+    .headerbox p {
+        font-size: 13px;
+    }
+    .headingtittle h1 {
+        font-size: 28px;
+    }
+    .headingtittle h2 {
+        font-size: 27px;
+    }
+    .headingtittle p {
+        font-size: 18px;
+    }
+    /*footer section start*/
+    .footerlogo img {
+        width: 21%;
+    }
+
+    /*footer section ened*/
+}
+/*425-479*/
+@media only screen and (min-width: 425px) and (max-width: 479px) {
+    .headerbox p {
+        font-size: 12px;
+    }
+    .headingtittle h1 {
+        font-size: 25px;
+    }
+    .headingtittle h2 {
+        font-size: 25px;
+    }
+    .headingtittle p {
+        font-size: 17px;
+    }
+    /*footer section start*/
+    .footerlogo img {
+        width: 21%;
+    }
+
+    /*footer section ened*/
+}
+
+/*375-424*/
+@media only screen and (min-width: 375px) and (max-width: 424px) {
+    .headerbox p {
+        font-size: 12px;
+    }
+    .headingtittle h1 {
+        font-size: 22px;
+    }
+    .headingtittle h2 {
+        font-size: 23px;
+    }
+    .headingtittle p {
+        font-size: 14px;
+    }
+    /*footer section start*/
+    .footerlogo img {
+        width: 21%;
+    }
+
+    /*footer section ened*/
+}
+
+/*320-374*/
+@media only screen and (min-width: 320px) and (max-width: 374px) {
+    .logobox {
+        padding-left: 26px;
+    }
+    .headerbox p {
+        font-size: 12px;
+    }
+    .headingtittle h1 {
+        font-size: 19px;
+    }
+    .headingtittle h2 {
+        font-size: 20px;
+    }
+    .headingtittle p {
+        font-size: 12px;
+    }
+    /*footer section start*/
+    .footerlogo img {
+        width: 21%;
+    }
+
+    /*footer section ened*/
+}
